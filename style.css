@@ -1,0 +1,33 @@
+body {
+    background-color: skyblue;
+    padding: 0;
+    margin: 0;
+    font-family: roboto;
+}
+form {
+    background-color: whitesmoke;
+    width: 500px;
+    margin: auto;
+    height: 400px;
+    border-right: 20px solid rgb(69, 161, 236);
+
+}
+input {
+    padding: 10px;
+    margin-left: 90px;
+
+    
+}
+p {
+    font-size:10px;
+    margin-left: 90px;
+}
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+button {
+    padding: 10px;
+    margin-left: 90px;
+
+}
